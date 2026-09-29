@@ -1,0 +1,152 @@
+{
+    "alexander.jpeg": {
+        "title": "Peter Alexander, sculpture at Walker Museum",
+        "tags": ["art", "confuser"],
+        "source": "mine"
+    },
+    "apartment.jpeg": {
+        "title": "Stained glass apartment window, Minneapolis",
+        "tags": ["window"],
+        "source": "mine"
+    },
+    "beckmann.jpeg": {
+        "title": "Max Beckmann, detail from Kreuzabnahme at MoMA",
+        "tags": ["art", "woman"],
+        "source": "mine"
+    },
+    "bergamot.jpeg": {
+        "title": "Wild bergamot flowers, Eloise Butler Garden",
+        "tags": ["flower", "multiple"],
+        "source": "mine"
+    },
+    "cosmos.jpeg": {
+        "title": "White cosmos flowers, Met Cloisters",
+        "tags": ["flower", "multiple"],
+        "source": "mine"
+    },
+    "costumes.jpeg": {
+        "title": "Robert Rauschenberg, costumes at Walker Museum",
+        "tags": ["art", "confuser", "multiple"],
+        "source": "mine"
+    },
+    "cozier.jpeg": {
+        "title": "Christopher Cozier, detail from Tropical Nights at MoMA",
+        "tags": ["art", "text", "multiple"],
+        "source": "mine"
+    },
+    "dollhouse1.jpeg": {
+        "title": "Dollhouse interior, complex room",
+        "tags": ["frame", "confuser"],
+        "source": "mine"
+    },
+    "dollhouse2.jpeg": {
+        "title": "Dollhouse interior, simple room",
+        "tags": ["window"],
+        "source": "mine"
+    },
+    "doughnuts.jpeg": {
+        "title": "Doughnuts in bakery window, Brooklyn",
+        "tags": ["window"],
+        "source": "mine"
+    },
+    "flyer.jpeg": {
+        "title": "Lecture series flyer, MoMA PS1",
+        "tags": ["woman", "text", "confuser"],
+        "source": "mine"
+    },
+    "goncharova.jpeg": {
+        "title": "Natalia Goncharova, Spanish Dancer at AIC",
+        "tags": ["art", "frame", "woman"],
+        "source": "mine"
+    },
+    "grotto.jpeg": {
+        "title": "Chapel interior, Dickeyville Grotto",
+        "tags": ["woman", "confuser"],
+        "source": "mine"
+    },
+    "hotel.jpeg": {
+        "title": "CitizenM hotel room, Manhattan",
+        "tags": ["window"],
+        "source": "mine"
+    },
+    "kusama.jpeg": {
+        "title": "Yayoi Kusama, sculpture at Walker Museum",
+        "tags": ["art", "confuser"],
+        "source": "mine"
+    },
+    "mukai.jpeg": {
+        "title": "Shuji Mukai, untitled piece at MoMA",
+        "tags": ["art", "frame", "text"],
+        "source": "mine"
+    },
+    "nakagin.jpeg": {
+        "title": "Nakagin Capsule Tower window, MoMA",
+        "tags": ["window"],
+        "source": "mine"
+    },
+    "oklou.jpeg": {
+        "title": "Oklou concert, First Avenue",
+        "tags": ["woman", "confuser"],
+        "source": "mine"
+    },
+    "piper.jpeg": {
+        "title": "Adrian Piper, sculpture at Met Cloisters",
+        "tags": ["art", "frame", "text", "confuser"],
+        "source": "mine"
+    },
+    "rosinweed.jpeg": {
+        "title": "Rosinweed flowers, Eloise Butler Garden",
+        "tags": ["flower", "multiple"],
+        "source": "mine"
+    },
+    "schendel.jpeg": {
+        "title": "Mira Schendel, untitled piece at MoMA",
+        "tags": ["art", "text"],
+        "source": "mine"
+    },
+    "screen.jpeg": {
+        "title": "Unknown piece playing on screen, Walker Museum",
+        "tags": ["art", "confuser"],
+        "source": "mine"
+    },
+    "topiary.jpeg": {
+        "title": "Tree-shaped topiary, Met Cloisters",
+        "tags": ["confuser"],
+        "source": "mine"
+    },
+    "trefoil.jpeg": {
+        "title": "Trefoil lancet window, Met Cloisters",
+        "tags": ["window"],
+        "source": "mine"
+    },
+    "trellis.jpeg": {
+        "title": "Wicker trellis and flowers, Met Cloisters",
+        "tags": ["flower", "multiple"],
+        "source": "mine"
+    },
+    "vases.jpeg": {
+        "title": "Cut flowers in bud vases, Met Cloisters",
+        "tags": ["flower", "multiple"],
+        "source": "mine"
+    },
+    "vickie.jpeg": {
+        "title": "Vickie Cherie concert, First Avenue",
+        "tags": ["woman", "confuser"],
+        "source": "mine"
+    },
+    "warehouse.jpeg": {
+        "title": "Warehouse window and vines, Minneapolis",
+        "tags": ["window"],
+        "source": "mine"
+    },
+    "wildflowers.jpeg": {
+        "title": "Grassy hill with wildflowers, Eloise Butler Garden",
+        "tags": ["flower", "multiple"],
+        "source": "mine"
+    },
+    "wyeth.jpeg": {
+        "title": "Andrew Wyeth, Christina's World at MoMA",
+        "tags": ["woman", "art", "frame"],
+        "source": "mine"
+    }
+}
